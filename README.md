@@ -1,5 +1,7 @@
 # Football Transfer Market Dashboard
 
+Link: https://app.powerbi.com/groups/me/reports/261f69bb-0941-46ba-8e8f-058c41a3c5c3/ReportSection?experience=power-bi
+
 ## Overview
 This Power BI dashboard provides an analytical overview of the **2022 Summer Transfer Window** focusing on the Top 5 European Leagues:
 - Premier League (England)
